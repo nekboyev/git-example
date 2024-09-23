@@ -1,2 +1,3 @@
 qidiruv funksiyasini qo'shyapman
 tugatdim
+git hubdan turib o'zgartiryapman
